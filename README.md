@@ -2,4 +2,4 @@
 
 **Embedded System Engineer** focused on robust firmware & IoT using **`ESP32`** and **`STM32`** with **`FreeRTOS`**.
 
-🌐 **Portfolio:** <a href="https://octarudin.github.io" target="_blank">**octarudin.github.io**</a>
+🌐 **Portfolio:** [**octarudin.github.io**](https://octarudin.github.io)
