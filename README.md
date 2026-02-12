@@ -39,6 +39,6 @@ I am an Embedded System Engineer focused on building robust and maintainable con
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/octarudin](https://linkedin.com/in/octarudin)
-* **Email:** octarudinmahendra@gmail.com
+* **Email:** octarudin@gmail.com
 
 *"Writing clean code for hardware that lasts."*
