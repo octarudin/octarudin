@@ -1,44 +1,43 @@
-# Hi there, I'm Octarudin Mahendra 👋
+# Hi, I'm Octarudin. 👋
 
-### Embedded System Engineer | Firmware Programmer | IoT Engineer
-
-I am an Embedded System Engineer focused on building robust and maintainable connected systems. I specialize in bridging the gap between hardware-level programming and modern software engineering practices like Clean Code, Layered Architecture, and CI/CD.
+Bridging hardware reality with modern software craftsmanship. I build robust, testable, and production-grade firmware for connected devices.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠️ The Toolbox
 
-* **Microcontrollers & Arches:** ESP32 Series (S3, C3, WROOM-32), STM32 (Cortex-M), ATmega Series, Raspberry Pi Pico (RP2040).
-* **Programming Languages:** C, C++, Go (Golang), MicroPython.
-* **Operating Systems & RTOS:** FreeRTOS.
-* **Hardware Peripherals:** UART, I2C, SPI, DMA, Timers, Interrupts, Watchdog Timer, I2S, CAN Bus.
-* **Communication Protocols:** Modbus (RTU/TCP), MQTT, HTTP/HTTPS, TCP/IP, LoRaWAN.
-* **Connectivity & Modules:** Ethernet (W5500), LoRa, Wi-Fi, GSM/GPRS, GPS/GNSS, IMU, Ultrasonic, Relays.
-* **Hardware Design (EDA):** Altium Designer, EasyEDA Pro (Multi-layer PCB Design).
-* **Development Tools & DevOps:** VS Code, PlatformIO, ESP-IDF, STM32CubeIDE, Git, Docker, GitHub Actions (CI/CD).
-
----
-
-### 🎯 Current Focus & Learning
-
-* **Embedded DevOps & CI/CD:** Architecting automated workflows for **ESP32 & STM32** using GitHub Actions, focusing on automated firmware builds and binary versioning.
-* **Firmware Design Patterns:** Implementing **Layered Architecture (HAL/SAL/App)** to ensure firmware modularity and decoupling hardware dependencies from business logic.
-* **Quality Assurance:** Mastering **Unit Testing & Mocking** (Unity/CMock) to implement TDD (Test-Driven Development) in embedded environments.
+| Domain | Stack & Technologies |
+| :--- | :--- |
+| 🧠 **Silicons** | ESP32 (S3/C3/WROOM), STM32 (Cortex-M), RP2040 |
+| 💻 **Languages** | C, C++ (Embedded), Go (Backend/Tools), MicroPython |
+| ⚙️ **OS & Core** | FreeRTOS, Bare-metal, Layered Architecture (HAL/SAL) |
+| 🔌 **Low-Level** | UART, SPI, I2C, CAN Bus, DMA, Timers, Interrupts |
+| 📡 **Industrial IoT** | Modbus (RTU/TCP), MQTT, LoRaWAN, RS485, Ethernet (W5500) |
+| 🧪 **QA & DevOps** | TDD (Unity/CMock), GitHub Actions (CI/CD for Firmware), Docker |
+| 🖥️ **Design & Tools**| Altium Designer, PlatformIO, ESP-IDF, VS Code |
 
 ---
 
-### 📈 Featured Projects
+### 🚀 Featured Work
 
-* **Energy Monitoring System:** A high-precision power quality monitoring solution. It utilizes **ESP32-S3** running **FreeRTOS** to sample data every second from **PZEM-016** via **Modbus RTU** with a detachable **CT Transformer**. Data is transmitted via **MQTT** to a **Raspberry Pi** local server, stored in **SQLite**, and visualized through a **Golang-based Dashboard**.
-* **Industrial IoT Environment Gateway:** A robust environmental monitoring system utilizing **ESP32 WROOM 32** and **FreeRTOS**. It integrates **PMS7003** (Dust/PM) and **MH-Z19C** (CO2) sensors. The system handles real-time data acquisition and provides reliable uplink to a **Raspberry Pi** local server via **MQTT** for **SQLite** storage and **Golang** visualization.
-* **Dasai Mochi (Interactive Gift Robot):** A creative, compact robot using **ESP32-C3** (RISC-V). Features gesture recognition via **MPU-6050** (shaking detection) and an interactive HMI on a **1.3" OLED** to display various facial expressions triggered by **TTP223** touch sensors.
-* **Firmware Architecture Templates:** Professional boilerplates for **ESP32** and **STM32** implementing **Layer-first Clean Code** for modular and testable firmware development.
+**⚡ Energy Monitoring System**
+Real-time precision power quality tracking utilizing RTOS and industrial sensors.
+`ESP32-S3` `FreeRTOS` `Modbus (PZEM-016)` `MQTT` `Go Dashboard`
+
+**🏭 Industrial Environment Gateway**
+Robust acquisition of dust (PM2.5) and CO2 data with reliable cloud uplink.
+`ESP32` `RS485 Sensors (PMS7003/MH-Z19C)` `SQLite` `Raspberry Pi Server`
+
+**🤖 Dasai Mochi (Interactive Bot)**
+A compact RISC-V robot featuring gesture recognition (shaking) and OLED HMI.
+`ESP32-C3` `MPU-6050 (IMU)` `OLED` `TTP223 Touch`
+
+**🏗️ Clean Code Firmware Templates**
+Layer-first architecture boilerplates decoupled from hardware dependencies.
+`STM32` `ESP32` `C/C++` `Testable Design`
 
 ---
 
-### 📫 Let's Connect!
+Let's connect via [LinkedIn](https://linkedin.com/in/octarudin) or 📧 **octarudin@gmail.com**
 
-* **LinkedIn:** [linkedin.com/in/octarudin](https://linkedin.com/in/octarudin)
-* **Email:** octarudin@gmail.com
-
-*"Writing clean code for hardware that lasts."*
+*"Usaha, Doa, dan Tawakal."*
