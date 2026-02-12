@@ -1,7 +1,5 @@
-**Embedded System Engineer** focused on robust firmware & IoT.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-GREEN?style=for-the-badge&logo=freertos&logoColor=white)
 
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![RP2040](https://img.shields.io/badge/RP2040-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![ATmega](https://img.shields.io/badge/ATmega-black?style=for-the-badge&logo=microchip&logoColor=white)
+**Embedded System Engineer** focused on robust firmware & IoT using **ESP32, STM32, RP2040, & ATmega**.
 
 🌐 **Portfolio & Case Studies:** [**octarudin.github.io**](https://octarudin.github.io)
-
-👇 **Featured Projects:**
